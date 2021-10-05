@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Galaxy_Library>
+    <Technical_Books>
+        <Book_1>
+            <ISBN>1234</ISBN>
+            <Title>How to build a hyper speed of sound starship</Title>
+            <Author>Dart Qi</Author>
+        </Book_1>
+        <Book_2>
+            <ISBN>5678</ISBN>
+            <Title>Survival Guide for Outer Ring Planets Hitch-Hiking</Title>
+            <Author>John Starr</Author>
+        </Book_2>
+    </Technical_Books>
+    <Cookery_Books>
+        <Book_1>
+            <ISBN>9101112</ISBN>
+            <Title>How to cook a big Marsian Iguanodon</Title>
+            <Author>Venus Walliams</Author>
+        </Book_1>
+        <Book_2>
+            <ISBN>13141516</ISBN>
+            <Title>Lunar Diet - Dos and Donts</Title>
+            <Author>Ann Strong</Author>
+        </Book_2>
+    </Cookery_Books>
+<Galaxy_Library>
